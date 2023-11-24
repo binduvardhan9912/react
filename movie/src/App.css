@@ -1,0 +1,14 @@
+.main
+{
+  display:grid;
+  grid-template-columns: repeat(3,auto);
+  gap: 50px;
+  margin: 50px 50px;
+  color:white;
+  font-size: 30px;
+}
+h1
+{
+  text-align: center;
+  color:pink;
+}
